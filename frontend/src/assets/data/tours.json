@@ -1,0 +1,210 @@
+[
+    {
+      "title": "Westminister Bridge",
+      "city": "London",
+      "address": "Somewhere in London",
+      "distance": 300,
+      "price": 99,
+      "maxGroupSize": 10,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img01.jpg",
+      "featured": true
+    },
+    {
+      "title": "Bali, Indonesia",
+      "city": "Bali",
+      "address": "Somewhere in Indonesia",
+      "distance": 400,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img02.jpg",
+      "featured": true
+    },
+    {
+      "title": "Snowy Mountains, Thailand",
+      "city": "Bangkok",
+      "address": "Somewhere in Thailand",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img03.jpg",
+      "featured": true
+    },
+    {
+      "title": "Beautiful Sunrise, Thailand",
+      "city": "Phuket",
+      "address": "Somewhere in Thailand",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img04.jpg",
+      "featured": true
+    },
+    {
+      "title": "Nusa Pendia Bali, Indonesia",
+      "city": "Bali",
+      "address": "Somewhere in Indonesia",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img05.jpg",
+      "featured": true
+    },
+    {
+      "title": "Cherry Blossoms Spring",
+      "city": "Tokyo",
+      "address": "Somewhere in Japan",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img06.jpg",
+      "featured": true
+    },
+    {
+      "title": "Holmen Lofoten, France",
+      "city": "Paris",
+      "address": "Somewhere in France",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img07.jpg",
+      "featured": true
+    },
+    {
+      "title": "Beautiful Snowy Mountains",
+      "city": "Bangkok",
+      "address": "Somewhere in Thailand",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img03.jpg",
+      "featured": true
+    },
+    {
+      "title": "Jaflong, Sylhet",
+      "city": "Sylhet",
+      "address": "Somewhere in Sylhet",
+      "distance": 100,
+      "price": 99,
+      "maxGroupSize": 5,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img08.jpg",
+      "featured": false
+    },
+    {
+      "title": "Cox's Bazar Sea Beach",
+      "city": "Chittagong",
+      "address": "Somewhere in Chittagong",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img09.jpg",
+      "featured": false
+    },
+    {
+      "title": "Excursion to Solang Valley",
+      "city": "Manali",
+      "address": "Somewhere in Himachal Pradesh",
+      "distance": 500,
+      "price": 59,
+      "maxGroupSize": 8,
+      "desc": "With spectacular valleys, breathtaking views, snowcapped mountains, and lush forests of oak, deodar, and pine, Manali is a magical hill station at the northern end of Kullu valley in Himachal Pradesh. Gifted to the world by the mighty Himalayas, it is known to be one of the most popular destinations.",
+      "reviews": [],
+  
+      "photo": "/tour-images/MANALI.jpg",
+      "featured": true
+    },
+    {
+      "title": "Beaches, Sunsets and Crazy Nights",
+      "city": "Goa",
+      "address": "Somewhere in Southwest India",
+      "distance": 1000,
+      "price": 69,
+      "maxGroupSize": 8,
+      "desc": "Lying on the western coast, Goa is India's smallest state and unlike any other, known for its endless beaches, stellar nightlife, eclectic seafood, world-heritage listed architecture. Spread across just 3,702 km, Goa lies in the Konkan region. It is a far cry from the hippie haven or a beach getaway, and one of the only few destinations that is open 24/7.",
+      "reviews": [],
+  
+      "photo": "/tour-images/GOA.jpg",
+      "featured": true
+    },
+    {
+      "title": "The city of Lakes",
+      "city": "Udaipur",
+      "address": "Somewhere in Rajasthan",
+      "distance": 700,
+      "price": 49,
+      "maxGroupSize": 5,
+      "desc": "Udaipur, also known as the City of Lakes, is one of the most visited tourist places in Rajasthan. Located around stunning water lakes and enveloped by the Aravalli Hills in all directions, Udaipur is known for its azure lakes, magnificent palaces, vibrant culture and delectable food. Along with being a must-visit destination, it is also one of the best places to experience luxury in India.",
+      "reviews": [],
+  
+      "photo": "/tour-images/UDAIPUR.jpg",
+      "featured": true
+    },
+    {
+      "title": "Land of His Holiness the Dalai Lama",
+      "city": "Mcleodganj",
+      "address": "Somewhere in Himachal Pradesh",
+      "distance": 500,
+      "price": 49,
+      "maxGroupSize": 8,
+      "desc": "Famous for being home to the Tibetan spiritual leader Dalai Lama, Mcleod Ganj is culturally blessed by a prominent Tibetan influence owing to the major settlement of Tibetans here who fled their homeland. It is also worth noting that Tibet's exiled government is also based solely in Mcleodganj which is also why it's called the Little Lhasa.",
+      "reviews": [],
+  
+      "photo": "/tour-images/MCLEODGANJ.jpg",
+      "featured": true
+    },
+    {
+      "title": "Yoga Capital of the World",
+      "city": "Rishikesh",
+      "address": "Yoga Capital of the World",
+      "distance": 300,
+      "price": 49,
+      "maxGroupSize": 6,
+      "desc": "Located in the foothills of the Himalayas along the convergence of Ganga and Chandrabhaga River, Rishikesh is a small town in the Dehradun district, located close to Haridwar in Uttarakhand. Rishikesh (also called as Hrishikesh) is known for its adventure activities, ancient temples, popular cafes and as the Yoga Capital of the World.",
+      "reviews": [],
+  
+      "photo": "/tour-images/RISHIKESH.jpg",
+      "featured": true
+    },
+    {
+      "title": "Queen of The Himalayas",
+      "city": "Darjeeling",
+      "address": "Somewhere in West Bengal",
+      "distance": 1500,
+      "price": 79,
+      "maxGroupSize": 8,
+      "desc": "Darjeeling, the former summer capital of India under the British Raj, has evolved into one of India's most sought-after hill stations. This picturesque hill destination in West Bengal is ideal for a romantic honeymoon. Darjeeling, nestled among acres of tea estates, is 2,050 metres above sea level and thus a cool climate all year.",
+      "reviews": [],
+  
+      "photo": "/tour-images/DARJEELING.jpg",
+      "featured": true
+    }
+  ]

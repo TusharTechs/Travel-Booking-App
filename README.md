@@ -58,14 +58,20 @@ Select a tour to view detailed information, including destination, duration, pri
 If you find a tour you wish to book, click the "Book Now" button and provide the required booking details, such as the number of participants and preferred dates.
 
 ## Screenshots
+
+### Homepage
 ![Screenshot_27](https://github.com/TusharTechs/Travel-Booking-App/assets/56952465/f39558a3-1b9d-4773-807d-6d3ec2398891)
 
+### Gallery Page
 ![Screenshot_28](https://github.com/TusharTechs/Travel-Booking-App/assets/56952465/55173996-5fb1-4131-8b12-b25c4458590a)
 
+### Tours Page
 ![Screenshot_30](https://github.com/TusharTechs/Travel-Booking-App/assets/56952465/46fbdd03-8e42-4ff2-9e50-bc8f12d3df62)
 
+### Searching a tour
 ![Screenshot_31](https://github.com/TusharTechs/Travel-Booking-App/assets/56952465/38405cd4-f26d-467b-bb8a-d9086a2b860f)
 
+### Tour Booking Page
 ![Screenshot_32](https://github.com/TusharTechs/Travel-Booking-App/assets/56952465/503131bf-deb8-4a68-9b9f-3676ea9b10ac)
 
 

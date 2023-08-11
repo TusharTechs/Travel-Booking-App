@@ -7,7 +7,6 @@ import registerImg from '../assets/images/register.png';
 import userIcon from '../assets/images/user.png';
 
 import { AuthContext } from '../context/AuthContext';
-import { BASE_URL } from '../utils/config';
 
 const Register = () => {
 
@@ -28,7 +27,7 @@ const Register = () => {
     e.preventDefault();
 
     try{
-      const res = await fetch(`${BASE_URL}/auth/register`, {
+      const res = await fetch(`https://tour-travel-booking-18df.onrender.com/api/v1/auth/register`, {
         method:'post',
         headers:{
           'content-type': 'application/json'

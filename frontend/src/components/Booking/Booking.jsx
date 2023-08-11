@@ -3,7 +3,6 @@ import "./booking.css";
 import { Form, FormGroup, ListGroup, ListGroupItem, Button } from 'reactstrap';
 import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../../context/AuthContext';
-import { BASE_URL } from '../../utils/config';
 
 const Booking = ({ tour, avgRating }) => {
 
@@ -39,7 +38,7 @@ const Booking = ({ tour, avgRating }) => {
           return alert('Please sign in.');
         }
 
-        const res = await fetch(`${BASE_URL}/booking`, {
+        const res = await fetch(`https://tour-travel-booking-18df.onrender.com/api/v1/booking`, {
           method:'post',
           headers:{
             'content-type':'application/json',

@@ -7,7 +7,6 @@ import avatar from '../assets/images/avatar.jpg';
 import Booking from '../components/Booking/Booking';
 import Newsletter from '../shared/Newsletter';
 import useFetch from '../hooks/useFetch';
-import { BASE_URL } from '../utils/config';
 import { AuthContext } from '../context/AuthContext';
 
 
@@ -21,7 +20,7 @@ const TourDetails = () => {
 
   const { user } = useContext(AuthContext);
 
-  const { data: tour, loading, error } = useFetch(`${BASE_URL}/tours/${id}`);
+  const { data: tour, loading, error } = useFetch(`https://tour-travel-booking-18df.onrender.com/api/v1/tours/${id}`);
 
   const { photo, title, desc, price, address, reviews = [], city, distance, maxGroupSize } = tour || {};
 
@@ -46,7 +45,7 @@ const TourDetails = () => {
         rating: tourRating,
       };
 
-      const res = await fetch(`${BASE_URL}/review/${id}`, {
+      const res = await fetch(`https://tour-travel-booking-18df.onrender.com/api/v1/review/${id}`, {
         method:'post',
         headers:{
           'content-type': 'application/json',

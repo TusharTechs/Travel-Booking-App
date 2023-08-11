@@ -7,7 +7,6 @@ import loginImg from '../assets/images/login.png';
 import userIcon from '../assets/images/user.png';
 
 import { AuthContext } from '../context/AuthContext';
-import { BASE_URL } from '../utils/config';
 
 const Login = () => {
 
@@ -32,7 +31,7 @@ const Login = () => {
 
     try{
 
-      const res = await fetch(`${BASE_URL}/auth/login`, {
+      const res = await fetch(`https://tour-travel-booking-18df.onrender.com/api/v1/auth/login`, {
         method:'post',
         headers:{
           'content-type': 'application/json'
